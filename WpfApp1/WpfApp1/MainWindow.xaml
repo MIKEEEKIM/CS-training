@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+        <Button x:Name="b1" Content="Button" HorizontalAlignment="Left" Margin="27,39,0,0" VerticalAlignment="Top" Width="293" RenderTransformOrigin="0.5,0.5" Height="205" Click="b1_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.934"/>
+                    <RotateTransform Angle="-0.208"/>
+                    <TranslateTransform X="0.117" Y="2.384"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="b2" Content="Button" HorizontalAlignment="Left" Margin="374,41,0,0" VerticalAlignment="Top" Width="360" Height="175" Click="Button_Click"/>
+
+    </Grid>
+</Window>

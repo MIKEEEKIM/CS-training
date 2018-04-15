@@ -1,0 +1,6 @@
+D:\personal\ZL\c\ConsoleApp1\suan\bin\Debug\suan.dll
+D:\personal\ZL\c\ConsoleApp1\suan\bin\Debug\suan.pdb
+D:\personal\ZL\c\ConsoleApp1\suan\obj\Debug\suan.csprojResolveAssemblyReference.cache
+D:\personal\ZL\c\ConsoleApp1\suan\obj\Debug\suan.csproj.CoreCompileInputs.cache
+D:\personal\ZL\c\ConsoleApp1\suan\obj\Debug\suan.dll
+D:\personal\ZL\c\ConsoleApp1\suan\obj\Debug\suan.pdb
