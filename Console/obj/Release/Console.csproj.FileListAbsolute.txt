@@ -1,0 +1,11 @@
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\Console.exe.config
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\Console.exe
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\Console.pdb
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\EntityFramework.dll
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\EntityFramework.SqlServer.dll
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\EntityFramework.xml
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Release\EntityFramework.SqlServer.xml
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Release\Console.csproj.CoreCompileInputs.cache
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Release\Console.csproj.CopyComplete
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Release\Console.exe
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Release\Console.pdb

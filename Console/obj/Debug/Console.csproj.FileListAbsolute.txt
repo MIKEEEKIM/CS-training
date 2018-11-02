@@ -1,0 +1,36 @@
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\Console.exe.config
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\Console.exe
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\Console.pdb
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\EntityFramework.dll
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\EntityFramework.xml
+D:\MIKEWANGYK\program\DERCode\Console\Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Debug\Console.csproj.CopyComplete
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Debug\Console.exe
+D:\MIKEWANGYK\program\DERCode\Console\Console\obj\Debug\Console.pdb
+D:\Programme\DERCode\Console\Console\bin\Debug\Console.exe.config
+D:\Programme\DERCode\Console\Console\bin\Debug\Console.exe
+D:\Programme\DERCode\Console\Console\bin\Debug\Console.pdb
+D:\Programme\DERCode\Console\Console\bin\Debug\EntityFramework.dll
+D:\Programme\DERCode\Console\Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programme\DERCode\Console\Console\bin\Debug\EntityFramework.xml
+D:\Programme\DERCode\Console\Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programme\DERCode\Console\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\Programme\DERCode\Console\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\Programme\DERCode\Console\Console\obj\Debug\Console.csproj.CopyComplete
+D:\Programme\DERCode\Console\Console\obj\Debug\Console.exe
+D:\Programme\DERCode\Console\Console\obj\Debug\Console.pdb
+D:\Programme\CS training\Console\bin\Debug\Console.exe.config
+D:\Programme\CS training\Console\bin\Debug\Console.exe
+D:\Programme\CS training\Console\bin\Debug\Console.pdb
+D:\Programme\CS training\Console\bin\Debug\EntityFramework.dll
+D:\Programme\CS training\Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programme\CS training\Console\bin\Debug\EntityFramework.xml
+D:\Programme\CS training\Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programme\CS training\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\Programme\CS training\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\Programme\CS training\Console\obj\Debug\Console.csproj.CopyComplete
+D:\Programme\CS training\Console\obj\Debug\Console.exe
+D:\Programme\CS training\Console\obj\Debug\Console.pdb
